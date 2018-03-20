@@ -1,0 +1,19 @@
+.floatLeft{
+  float:left;
+}
+
+.termList{
+  visibility: visible;
+}
+
+.defList{
+  visibility: hidden;
+}
+
+.makeVisible{
+  visibility: visible;
+}
+
+.hide{
+  visibility: hidden;
+}
